@@ -1,2 +1,1 @@
-## This is a markdown file. 
-test file for data science coursera
+## This is a markdown file
